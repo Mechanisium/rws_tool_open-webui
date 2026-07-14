@@ -10,7 +10,7 @@ Giving an LLM raw filesystem access is risky — a model can be tricked (or can 
 
 ## Demo Video
 
-https://github.com/Mechanisium/rws_tool_open-webui/raw/main/demo/vid.webm
+[vid.webm]https://github.com/Mechanisium/rws_tool_open-webui/raw/main/demo/vid.webm
 
 ## Features
 
