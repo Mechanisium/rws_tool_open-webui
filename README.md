@@ -10,7 +10,9 @@ Giving an LLM raw filesystem access is risky — a model can be tricked (or can 
 
 ## Demo Video
 
-[vid.webm](https://github.com/Mechanisium/rws_tool_open-webui/raw/main/demo/vid.webm)
+<video src="https://github.com/Mechanisium/rws_tool_open-webui/blob/main/demo/vid.webm" controls width="100%" style="max-width: 800px;">
+  Your browser does not support the video tag.
+</video>
 
 ## Features
 
