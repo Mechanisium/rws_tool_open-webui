@@ -8,6 +8,10 @@ Built as a `Tools` class for Open WebUI's native Tool system, running against a 
 
 Giving an LLM raw filesystem access is risky — a model can be tricked (or can simply hallucinate) into passing a filename like `../../../../etc/passwd`. This tool constrains every file operation to a single base folder (`~/castle/` by default) and validates every path before touching disk, so no operation can resolve to anywhere outside that folder.
 
+## Demo Video
+
+https://github.com/Mechanisium/rws_tool_open-webui/raw/main/demo/vid.webm
+
 ## Features
 
 | Method | Description |
